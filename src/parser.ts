@@ -258,6 +258,7 @@ export class Parser {
 			case "al":
 			case "c":
 			case "cpp":
+			case "cfml":
 			case "csharp":
 			case "dart":
 			case "flax":
